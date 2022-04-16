@@ -12,10 +12,12 @@ apt install tor
 
 install on termux 
 
-pkg install python3
-pkg install git
-pkg install tor 
+pkg install python3 git tor 
 
+
+After them
+
+type :  pip3 install requests
 
 * How to use ?
 
