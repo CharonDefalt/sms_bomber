@@ -21,7 +21,7 @@ type :  pip3 install requests
 
 * How to use ?
 
-tor HTTPTunnelPort 8000
+tor HTTPTunnel 8000
 
 on New Terminal 
 
