@@ -14,7 +14,7 @@ apt install python3-pip -y
 apt install tor -y 
 
 
-Termux Installation:
+Termux Installation :
 
 pkg install python3 git tor  -y
 
