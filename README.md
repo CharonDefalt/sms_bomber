@@ -28,3 +28,9 @@ on New Terminal
 python sms.py
 
 Enjoy :)
+
+########################################################
+
+How use without-tor file ?
+
+just run the script with other vpns or dont use vpns and enjoy :) 
