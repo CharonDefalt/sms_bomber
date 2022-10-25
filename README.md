@@ -3,16 +3,16 @@ sms bomber just for Iran
 
 Linux Installation :
 
-apt install git
-apt install update
-apt install upgrade
-apt install python3-pip
-apt install tor 
+apt update/n
+apt upgrade/n
+apt install git -y /n
+apt install python3-pip -y /n
+apt install tor -y /n
 
 
 Termux Installation:
 
-pkg install python3 git tor 
+pkg install python3 git tor  -y
 
 
 After installing prograss install requests with pip3 :
