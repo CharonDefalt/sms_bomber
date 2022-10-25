@@ -1,7 +1,7 @@
 # sms_bomber
 sms bomber just for Iran
 
-install linux
+Linux Installation :
 
 apt install git
 apt install update
@@ -10,14 +10,14 @@ apt install python3-pip
 apt install tor 
 
 
-install on termux 
+Termux Installation:
 
 pkg install python3 git tor 
 
 
-After them
+After installing prograss install requests with pip3 :
 
-type :  pip3 install requests
+pip3 install requests
 
 * How to use ?
 
