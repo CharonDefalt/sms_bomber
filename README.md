@@ -41,7 +41,7 @@ just run the script with other vpns or dont use vpns and enjoy :)
 
 ########################################################
 
-#How use Shahrdari.py ?
+# How use Shahrdari.py ?
 
 First open your file 
 
@@ -49,4 +49,6 @@ Second edit PhoneNumber
 
 Third Enjoy :) 
 
-#Warning : This script not working with VPN
+# Warning : This script not working with VPN
+
+########################################################
