@@ -4,8 +4,8 @@ import requests
 from colorama import init, Fore
 
 
+print(Fore.YELLOW + 'You must run your proxy in 8000 port and you have to put number like this : 09***** ')
 
-print(Fore.Yellow + 'You must run your proxy in 8000 port ')
 # Initialize Colorama
 init()
 
