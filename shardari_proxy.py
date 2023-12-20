@@ -5,7 +5,7 @@ from colorama import Fore
 import time
 
 url = "https://manshahrdaram.tehran.ir/SendVerifyCode"
-payload = "phoneNumber=09197290599"
+payload = "phoneNumber=09****"
 headers = {
     # Add your headers here
 }
