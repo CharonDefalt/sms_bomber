@@ -41,13 +41,12 @@ just run the script with other vpns or dont use vpns and enjoy :)
 
 ########################################################
 
-#How use Shahrdari  files ?
-
+#How use Shahrdari.py ?
 
 First open your file 
 
 Second edit PhoneNumber
 
-Third Enjoy :)
+Third Enjoy :) 
 
-Notice : in shahrdari-proxy.py  we use ip and port  you can change it 
+#Warning : This script not working with VPN
