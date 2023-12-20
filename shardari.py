@@ -5,7 +5,7 @@ from colorama import Fore
 
 url = "https://manshahrdaram.tehran.ir/SendVerifyCode"
 
-payload = "phoneNumber=09197290599"
+payload = "phoneNumber=09*****"
 headers = {
     "Host": "manshahrdaram.tehran.ir",
     "Cookie": ".AspNetCore.Antiforgery.8uKDfNyqTyw=CfDJ8Lmev2UBweRHhb6xY9rsIgmduSQYhfxvTXy8DaKYX4tzca0xmTc-pp8ReitXzhMZIL1DGgr3my9h1DL3_GfFH6P8NbIhnUUJMioT1UmkIpc8iijBwAGGxp7O_gEX9kCiXocpeqiH10fE8K5-0cMjANQ",
