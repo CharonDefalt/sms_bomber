@@ -38,3 +38,16 @@ Enjoy :)
 How use without_tor file ?
 
 just run the script with other vpns or dont use vpns and enjoy :) 
+
+########################################################
+
+#How use Shahrdari  files ?
+
+
+First open your file 
+
+Second edit PhoneNumber
+
+Third Enjoy :)
+
+Notice : in shahrdari-proxy.py  we use ip and port  you can change it 
